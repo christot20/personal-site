@@ -85,6 +85,9 @@ body {
   height: 400px;
   border-radius: 5%;
 } */
+.emoji {
+  color: white !important;
+}
 
 
 
@@ -106,6 +109,7 @@ body {
   -o-transition: all 1s ease;
   -ms-transition: all 1s ease;
   transition: all 1s ease;
+  margin:20px;
 }
 
 .card-body {
@@ -129,12 +133,4 @@ a {
   width: 300px;
   height: 300px;
   border-radius: 20%;
-}
-
-.card {
-  margin:20px;
-}
-
-.emoji {
-  color: white !important;
 }
