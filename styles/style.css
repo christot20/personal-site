@@ -188,3 +188,16 @@ a {
     margin: 1em;
   }
 }
+
+#dates {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+#comp {
+  font-size: 1.15em;
+}
+
+#smallText {
+  font-size: 1.1em;
+}
