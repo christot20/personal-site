@@ -63,6 +63,7 @@ body {
   height: 225px;
   border-radius: 10%;
   margin: 1em;
+  border: 3px solid white;
 }
 
 #socials {
@@ -205,3 +206,18 @@ a {
 #skills {
   padding-bottom: 2em;
 }
+
+#tech {
+  /* opacity: 40%; */
+  width: 40px;
+  height: 40px;
+  /* -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  transition: all 1s ease; */
+  }
+  
+/* #tech:hover {
+  opacity: 100%;
+} */
