@@ -146,8 +146,8 @@ a {
 
 #job {
   opacity: 40%;
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
   -webkit-transition: all 1s ease;
   -moz-transition: all 1s ease;
   -o-transition: all 1s ease;
@@ -160,13 +160,13 @@ a {
   opacity: 100%;
 }
 
-#topHeader {
+/* #topHeader {
   padding: 20px;
 }
 
 #bot {
   padding: 10px;
-}
+} */
 
 #hime {
   font-size: 1.1em;
