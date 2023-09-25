@@ -168,10 +168,23 @@ a {
   padding: 10px;
 }
 
+#hime {
+  font-size: 1.1em;
+}
+
 .p3 {
-  font-size: 1.3em;
+  font-size: 1.5em;
 }
 
 .p-1 {
   font-size: 1.2em;
+}
+
+@media only screen and (max-width: 800px) {
+  #picme{
+    width: 300px;
+    height: 325px;
+    border-radius: 10%;
+    margin: 1em;
+  }
 }
